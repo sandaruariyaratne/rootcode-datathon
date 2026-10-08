@@ -1,0 +1,7 @@
+order_ref,outlet_id,brand,district,temp_requirement,parking_constraint,dock_type,order_units,order_weight_kg,order_volume_m3,deferred_yesterday,days_since_last_served,compatible_vehicle_count,priority_bonus
+S1-083,OUT074,Fresh,Puttalam,chilled,normal,rear_dock,205,1588.8,8.659,1,5,3,325
+S1-056,OUT053,Fresh,Galle,chilled,normal,street,80,670.7,3.754,0,2,4,190
+S1-078,OUT070,Style,Kurunegala,ambient,normal,rear_dock,42,2561.6,40.66,0,2,0,160
+S1-058,OUT054,Fresh,Galle,chilled,normal,rear_dock,547,2741.8,16.515,0,1,3,185
+S1-064,OUT060,Fresh,Matara,chilled,normal,rear_dock,186,1277.8,6.784,0,1,3,185
+S1-067,OUT062,Fresh,Matara,chilled,normal,rear_dock,128,930.2,5.194,0,1,4,180
